@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TugasWeekTiga</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_nama">Nama</string>
+    <string name="hint_NIM">NIM</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="log_in">Log In</string>
+    <string name="enter">Masuk</string>
+    <string name="toggle_password_visibility">Icon Visibility Password</string>
+    <string name="home">Home</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="back">Kembali</string>
+    <string name="nama_format">Nama : %s</string>
+    <string name="nim_format">NIM : %s</string>
+    <string name="email_format">Email : %s</string>
+    <string name="password_format">Password : %s</string>
+</resources>
